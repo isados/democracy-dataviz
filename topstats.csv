@@ -1,4 +1,4 @@
-Entity,Year,electdem_vdem_owid,"GDP per capita (output, multiple price benchmarks)",population_density,pop_order
+Entity,Year,Democracy Index,GDP Per Capita,Population Density,Population Density Order
 Norway,2019,0.892,73668.78781123945,14.732,1
 United States,2019,0.808,62588.99972615434,35.974,2
 Ireland,2019,0.876,102622.44892211873,70.874,3
